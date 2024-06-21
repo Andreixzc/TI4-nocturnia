@@ -1,5 +1,0 @@
-- Criar prefab do goblin pra modularizar o spawn deles, enquanto não fazer isso tem que fixar a posição de cada um individualmente
-
-- Mudar o mapa
-
-- Concertar bug que o boss não mata

@@ -1,9 +1,14 @@
 
 # Nocturnia
-### Trabalho realizado no 4º período da faculdade.
+### Trabalho interdisciplinar.
 
 
 ## Integrantes
 - Andrei Massaini
+- André Menezes
+- Arthur Crossy
+- Davi Caetano
+- Lucas Lopes
+
 
 
